@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://alexeysarakuz.github.io/ppdr/sitemap.xml
